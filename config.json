@@ -1,0 +1,6 @@
+{
+  "module": "external",
+  "fov": 7,
+  "smooth": 4,
+  "overlay": { "streamproof": true }
+}
